@@ -1,8 +1,6 @@
 "use strict";
 
-const number = prompt(
-    "Enter a number from 0 to 7 to check your permission level"
-);
+const number = prompt("Enter a number from 0 to 7 to check permission level");
 
 switch (number) {
     case "0":
